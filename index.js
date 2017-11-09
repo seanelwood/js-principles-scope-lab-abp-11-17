@@ -18,8 +18,8 @@ const leastFavoriteCustomer = "some value";
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = leastFavoriteCustomer.toUpperCase();
 }
-let favoriteCustomer = "Bob";
 
 function attemptTwoFavoriteCustomers() {
+  let favoriteCustomer = "Bob";
  let favoriteCustomer = "bill";
 }
