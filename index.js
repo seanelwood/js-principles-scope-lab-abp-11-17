@@ -19,6 +19,5 @@ function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = leastFavoriteCustomer.toUpperCase();
 }
 let favoriteCustomer = "Bob";
-
-
+let favoriteCustomer = "bill";
 
