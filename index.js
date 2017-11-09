@@ -14,3 +14,7 @@ function overwriteBestCustomer() {
 }
 
 const leastFavoriteCustomer = "some value";
+
+function changeLeastFavoriteCustomer() {
+  leastFavoriteCustomer = leastFavoriteCustomer.toUpperCase();
+}
