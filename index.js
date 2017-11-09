@@ -19,4 +19,7 @@ function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = leastFavoriteCustomer.toUpperCase();
 }
 let favoriteCustomer = "Bob";
- favoriteCustomer = "bill";
+
+attemptTwoFavoriteCustomers() {}
+ let favoriteCustomer = "bill";
+}
